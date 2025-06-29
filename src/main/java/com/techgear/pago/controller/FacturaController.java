@@ -17,7 +17,7 @@ import com.techgear.pago.model.Factura;
 import com.techgear.pago.service.FacturaService;
 
 @RestController
-@RequestMapping("/api/factura")
+@RequestMapping("/factura")
 
 public class FacturaController {
 
